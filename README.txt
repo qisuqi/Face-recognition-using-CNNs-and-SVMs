@@ -1,4 +1,5 @@
 A Comparative Study in Face Recognition with CNNs and SVMs 
+Dataset used for this study is MIT-CBCL Face Recognition Database, it can found here: http://cbcl.mit.edu/software-datasets/heisele/facerecognition-database.html
 ------------------------------------------------------------------------------------------
 A brief description of each Matlab script is as follows:
 
